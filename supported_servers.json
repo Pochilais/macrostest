@@ -402,7 +402,7 @@
         "name": "RO",
         "description": "Zeth Ragnarok Online",
         "site": "http://solid.ragnarok-online.net/",
-        "hpAddress": "0x00E4CAF4",
-        "nameAddress": "0x00E8F434"
+        "hpAddress": "0x00E8F434",
+        "nameAddress": "0x00E91C00"
     }
 ]
